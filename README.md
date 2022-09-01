@@ -1,2 +1,1 @@
-# htmlandcss 
-code snippets for html and css
+# Code snippets / Code bank
