@@ -1,3 +1,3 @@
 # Code snippets / Code bank
 
-Repo for useful code snippets
+Repo for code snippets
